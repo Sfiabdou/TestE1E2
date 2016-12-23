@@ -36,6 +36,6 @@ la procédure suivée:
 3-Modification de design des boutons: 
  +Pour que design soit uniforme , 
   pour les deux boutons 'adultes' et 'enfants' on  change l'attribut 'classe' des deux balises'select' de façon 
-  qu'il soit : class="form-control col-lg-12 col-md-12"
-.
+  qu'il soit : class="form-control col-lg-12 col-md-12".
+  
 NB: lien de la page: FrontEnd/www.vizircenter.ma/fr/contactpromo 
