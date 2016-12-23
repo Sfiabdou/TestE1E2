@@ -27,7 +27,7 @@ enfants. L'idée est que le design soit uniforme.
 la procédure suivée:
 -------------------
 
-1-Téléchargerment de la totalité de la page (html,css,js):
+1-Téléchargement de la totalité de la page (html,css,js):
 
 >  wget -r -k http://www.vizircenter.ma/fr/contactpromo
 
